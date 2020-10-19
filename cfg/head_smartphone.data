@@ -1,0 +1,5 @@
+classes=2
+train=OIDv4_ToolKit/OID/train_test/train.txt
+valid=OIDv4_ToolKit/OID/train_test/test.txt
+names=data/head_smartphone.names
+backup=backup/
